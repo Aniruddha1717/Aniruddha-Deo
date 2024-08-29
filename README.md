@@ -52,7 +52,7 @@ I am a **System Analyst** with a diverse skill set that spans across various dom
 
 ---
 
-![Analytics](https://github.com/aniruddha-deo/github-readme-stats)
+![Analytics]([https://github.com/aniruddha-deo/github-readme-stats](https://github.com/Aniruddha1717?tab=repositories)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aniruddha-deo&layout=compact)
 
 ---
