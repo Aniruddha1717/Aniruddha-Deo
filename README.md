@@ -49,6 +49,7 @@ I am a **System Analyst** with a diverse skill set that spans across various dom
 
 ## 📫 **Connect with Me**
 - [LinkedIn](http://linkedin.com/in/aniruddha-deo-b499851b8/)
+- Shoot Me an [Email](mailto:aniruddhasdeos@gmail.com) 💌
 
 ---
 
