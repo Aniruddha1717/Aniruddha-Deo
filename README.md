@@ -4,7 +4,7 @@
 **Aniruddha1717/Aniruddha1717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am [Aniruddha Deo](https://www.linkedin.com/in/aniruddha-deo-b499851b8/), Working as a System Analyst from [India] Skilled Experienced System Analyst and Engineer with 7 years of experience and expert understanding of SDLC Processes and agile flavored development methodologies, with relevant 2 years of expertise in Power BI, Data Analysis, SQL, and Tableau. Skilled in analyzing complex data sets and delivering valuable insights. Also experienced as a trainer, eager to deliver impactful sessions and contribute to business success.🎯
+I am [Aniruddha Deo](https://www.linkedin.com/in/aniruddha-deo-b499851b8/), Working as a System Analyst from [India](https://en.wikipedia.org/wiki/India/) Skilled Experienced System Analyst and Engineer with 7 years of experience and expert understanding of SDLC Processes and agile flavored development methodologies, with relevant 2 years of expertise in Power BI, Data Analysis, SQL, and Tableau. Skilled in analyzing complex data sets and delivering valuable insights. Also experienced as a trainer, eager to deliver impactful sessions and contribute to business success.🎯
 
 I mostly work with Power BI, Data Analysis, Data Visualization, Data Cleansing, DAX, SQL, Power Query, Bugzilla, System Analysis and Design. 🚀
 
