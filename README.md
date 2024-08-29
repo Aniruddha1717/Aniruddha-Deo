@@ -53,7 +53,7 @@ I am a **System Analyst** with a diverse skill set that spans across various dom
 ---
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-
+- SQL.
 
 ---
 
