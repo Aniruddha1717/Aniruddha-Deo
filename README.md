@@ -1,26 +1,68 @@
-<h1 align="center">Hi 👋, I'm Aniruddha Deo</h1>
-<h3 align="center">A passionate Business/System Analyst/Trainer from India</h3>
+### Hi there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniruddha1717&label=Profile%20views&color=0e75b6&style=flat" alt="aniruddha1717" /> </p>
+<!--
+**Aniruddha1717/Aniruddha1717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-- 🔭 I’m currently working on **Trade Master ETRM/CTRM Software**
+I am [Aniruddha Deo](https://www.linkedin.com/in/aniruddha-deo-b499851b8/), Working as a System Analyst from [🇮🇳 ] Skilled Experienced System Analyst and Engineer with 7 years of experience and expert understanding of SDLC Processes and agile flavored development methodologies, with relevant 2 years of expertise in Power BI, Data Analysis, SQL, and Tableau. Skilled in analyzing complex data sets and delivering valuable insights. Also experienced as a trainer, eager to deliver impactful sessions and contribute to business success.🎯
 
-- 🌱 I’m currently learning **Business Analyst Course Completed**
+I mostly work with Power BI, Data Analysis, Data Visualization, Data Cleansing, DAX, SQL, Power Query, Bugzilla, System Analysis and Design. 🚀
 
-- 👨‍💻 All of my projects are available at [https://github.com/Aniruddha1717?tab=repositories](https://github.com/Aniruddha1717?tab=repositories)
 
-- 💬 Ask me about **Power BI, DAX, Data Cleaning, Data Analysis, Data Visualization, ETRM/CTRM, Azure Methodologies, Figma Software,**
-
-- 📫 How to reach me **aniruddhasdeos@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/Aniruddha1717](https://github.com/Aniruddha1717)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/http://linkedin.com/in/aniruddha-deo-b499851b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/aniruddha-deo-b499851b8/" height="30" width="40" /></a>
+<p float="left">
+  <a href="https://python.org/" target="_blank" >
+    <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"  height="90" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
+  </a>
+  
+  <a href="https://www.djangoproject.com/" target="_blank" >
+    <img src="https://www.edgica.com/wp-content/files/django-logo-big.jpg"  height="80" /> 
+  </a>
+  
+  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
+  </a>
+  <a href="https://grpc.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grpc.gif"  height="75" />
+  </a>
+  <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="70" />
+  </a>
+ </p>
+  
+### DevOps
+  
+ <p float="left">
+  <a href="https://m.do.co/c/3bc2250b7076" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/do.gif"  height="75" />
+  </a> 
+  <a href="https://aws.amazon.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
+  </a>
+ </p>
+  
+### Databases and Monitoring
+  
+  <a href="https://prometheus.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
+  </a>
+  <a href="https://www.influxdata.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/influxdata.gif" height="60" />
+  </a>
+    <a href="https://www.postgresql.org" target="_blank" >
+    <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="60" />
+  </a>
+  </a>
+    <a href="https://www.mongodb.com/" target="_blank" >
+    <img src="https://www.logolynx.com/images/logolynx/cf/cf72126a3551b816d617a06ffb01388b.png" height="60" />
+  </a>
+  
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniruddha1717&show_icons=true&locale=en" alt="aniruddha1717" /></p>
+### 📫 How to reach me?
+
+ - Connect with me on [Aniruddha Deo's LinkedIn](https://www.linkedin.com/in/aniruddha-deo-b499851b8/) 👨🏻‍💻
+ - Shoot Me an [Email](mailto:aniruddhasdeos@gmail.com) 💌
